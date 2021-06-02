@@ -1,1 +1,1 @@
-![](Sololearn_C_Certificate.pdf)
+# C course Certificate issued by Sololearn
