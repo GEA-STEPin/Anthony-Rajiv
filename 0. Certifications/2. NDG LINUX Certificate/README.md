@@ -1,1 +1,1 @@
-#NDG LINUX Unhatched course Certificate issued by NDG
+# NDG LINUX Unhatched course Certificate issued by The NDG team
