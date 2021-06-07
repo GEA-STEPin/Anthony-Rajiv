@@ -2,9 +2,9 @@ name: Linked List Implementatiom
 
 on:
   push:
-    branches: [ Linked List ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
